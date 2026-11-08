@@ -3,7 +3,7 @@
 ## Struktur Folder
 
 ```
-expense-tracker/
+programming17-x-income-expense/
 ├── index.php
 ├── tambah.php
 ├── classes/
@@ -21,7 +21,7 @@ expense-tracker/
     └── style.css
 ```
 
-## Jalankan Server (dari folder `expense-tracker`)
+## Jalankan Server (dari folder `programming17-x-income-expense`)
 
 ```bash
 php -S localhost:8000
